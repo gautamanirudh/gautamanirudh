@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anirudh Gautam</h1>
 <h3 align="center">Undergrad Student from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif">
 
 
 - 🌱 I’m currently learning **Backend Development with FastAPI and Go**
