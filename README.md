@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **anirudh1102gautam@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3zZoPod](https://bit.ly/3zZoPod)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
