@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anirudh Gautam</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://anirudhgautam.com">Anirudh Gautam</a></h1>
 <h3 align="center">Undergrad Student from India</h3>
 
 
