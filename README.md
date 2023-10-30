@@ -2,7 +2,7 @@
 <h3 align="center">Undergrad Student from India</h3>
 
 
-- 🌱 I’m currently learning **Backend Development with FastAPI and Go**
+- 🌱 I’m currently learning **Go**
 
 - 💬 Ask me about **Python, Machine Learning, Statistics**
 
