@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://anirudhgautam.com">Anirudh Gautam</a></h1>
-<h3 align="center">Undergrad Student from India</h3>
+<h3 align="center">Software engineer from India</h3>
 
-
-- 🌱 I’m currently learning **Go**
-
-- 💬 Ask me about **Python, Machine Learning, Statistics**
+- 💬 Ask me about **Backend Engineering, Machine Learning, Statistics**
 
 - 📫 How to reach me **anirudh1102gautam@gmail.com**
 
